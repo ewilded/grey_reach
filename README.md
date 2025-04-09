@@ -1,4 +1,4 @@
-# grey_reach
+# Grey Reach
 <p align="left">
   <img src="LOGO.png" width="256" height="192" title="Grey Reach">
 </p>
