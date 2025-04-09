@@ -2,7 +2,7 @@
 <p align="left">
   <img src="LOGO.png" width="256" height="192" title="Grey Reach">
 </p>
-A plugin aimed at deepening the coverage of blackbox/greybox tests by reaching non-default conditional blocks.
+A BurpSuite Professional plugin aimed at deepening the coverage of blackbox/greybox tests by reaching non-default conditional blocks.
 For full description of the problem it aims to help with read https://hackingiscool.pl/reaching-non-default-conditional-blocks-during-grey-and-blackbox-webapp-testing/.
 
 # Using the plugin
