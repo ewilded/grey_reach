@@ -1,7 +1,7 @@
 # Grey Reach BurpSuite Professional plugin, written by Julian Horoszkiewicz and Grok 3
 # A plugin aimed at deepening the coverage of blackbox/greybox tests by reaching non-default conditional blocks.
 # https://github.com/ewilded/grey_reach
-# https://hackingiscool.pl/reaching_non-default_conditional_blocks_during_grey_and_blackbox_webapp_testing
+# https://hackingiscool.pl/reaching-non-default-conditional-blocks-during-grey-and-blackbox-webapp-testing/
 import re
 import itertools
 import random
