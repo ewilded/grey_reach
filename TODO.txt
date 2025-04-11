@@ -1,0 +1,6 @@
+- improve the config GUI
+- add checkbox to exclude cookies (by default)
+- implement granular variable value configuration and smart retrieval based on sitemap
+- implement support for JSON parameters
+- tune output (remove debug information, make information about the number of scans clear and visible)
+- consider introducing warnings for large numbers of scans before scheduling
